@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class SaludoComponent {
   saludo: string = '¡Hola, Angular!';
-  Nombre: string = 'Sergio Garcia'
+  nombreYapellido: string = 'Sergio Garcia'
 
   constructor() { }
 
